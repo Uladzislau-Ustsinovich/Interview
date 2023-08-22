@@ -14,3 +14,5 @@ In this repository, I decided to collect all the tasks that I came across at the
 - [ ] Complete Readme navigation
 - [ ] Add description to all tasks
 - [ ] Create index.html file to provide smart navigation
+- [ ] Add test cases and runners (GitHub CI/CD)
+- [ ] Add difficulty levels to tasks
